@@ -4,7 +4,7 @@ const Foot = () => {
   return (
     <footer className='pointer-events-auto relative z-20 flex flex-col items-center justify-center bg-secondary px-4 py-6 text-center text-text'>
       <div className='flex flex-col items-center xs:flex-row'>
-        Made with lots of ❤️ !
+        Made with a blend of skill and ❤️
         {/* <div className='ml-3 mt-2 flex gap-2 text-[17px] xs:mt-0 '>
           {techUsed.map((icon) => (
             <div
