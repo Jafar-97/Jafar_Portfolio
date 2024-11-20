@@ -22,7 +22,7 @@ const Foot = () => {
             </div>
           ))}
         </div> */}
-        {/* <span className='ml-3 mt-2 xs:mt-0'>lots of ❤️ !</span> */}
+        {/* <span className='ml-3 mt-2 xs:mt-0'>Made with a blend of skill and ❤️ !</span> */}
       </div>
       <p className='mt-5 text-[14px] opacity-75 '>
         &copy; {new Date().getFullYear()} Jafar Aziz Shariff <br />
