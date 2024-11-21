@@ -27,21 +27,6 @@ const Foot = () => {
       <p className='mt-5 text-[14px] opacity-75 '>
         &copy; {new Date().getFullYear()} Jafar Aziz Shariff <br />
       </p>
-      {/* Commented out the entire anchor tag to remove the "Code" button and its functionality */}
-      {/* <a
-        href='https://github.com/Jafar-97/Jafar_Portfolio'
-        target='_blank'
-        rel='noreferrer'
-        className='mt-4 flex cursor-pointer items-center gap-1 text-[18px] font-medium text-text transition-transform duration-200 hover:-translate-y-[2px] focus:-translate-y-[2px] hover:text-primary focus:text-primary'
-      >
-        Code
-        <svg height='1em' viewBox='0 0 496 512' className='text-current'>
-          <path
-            d='[SVG path data]'
-            fill='currentColor'
-          />
-        </svg>
-      </a> */}
     </footer>
   );
 };
